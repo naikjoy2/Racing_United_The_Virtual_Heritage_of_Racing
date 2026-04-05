@@ -1,9 +1,6 @@
 ![Racing United Banner](RacingUnited_GitHub.png)
-# Racing United – The Virtual Heritage of Racing
 
-**Racing United: The Virtual Heritage of Racing** is an open-source, community-driven driving simulator and celebration of automotive history, ingenuity, and culture.
-
-It is designed to let players experience the joy of driving, racing, building, and tuning vehicles across multiple disciplines — while also preserving and exploring the heritage of motorsport and automotive enthusiasm.
+**Racing United** is an open-source, community-driven driving simulator and celebration of automotive history, ingenuity, and culture. It is designed to let players experience the joy of driving, racing, building, and tuning vehicles across multiple disciplines — while also preserving and exploring the heritage of motorsport and automotive enthusiasm.
 
 ---
 
