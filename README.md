@@ -1,7 +1,7 @@
 ![Racing United Banner](RacingUnited_GitHub.png)
 
-**Racing United** is a simulator and a celebration of automotive history, ingenuity, and culture. Drive, modify and tune any vehicle for any driving style and chosen sport. It will feature both motorsports and clandestine racing that are present world wide. 
+Racing United is a driving simulator and a celebration of automotive history, ingenuity, and culture. Drive, modify, and tune vehicles for a wide range of driving styles and disciplines. The game is designed to embrace both organized motorsport and clandestine racing culture as they exist around the world. 
 
-This game is open source and crowd sourced. Meaning it's built in collaboration with the community. Tutorials and guides will be readily available and regularly updated, constantly refining our craft to exceed our previous workflow and quality.
+This project is open-source and crowdsourced, built in collaboration with the community. Tutorials and guides will be readily available and regularly updated, constantly refining our craft to exceed the quality and pace of our previous workflow.
 
-[Discord server](https://discord.gg/rTfC2Ev)
+[Join our Discord community](https://discord.gg/rTfC2Ev)
